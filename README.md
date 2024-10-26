@@ -51,8 +51,7 @@ upcoming lessons, changes in schedules, and other important updates.
 are we doing and how are we doing all the work.
 4. There will be an Apply section and in it, we have three parts bike,
 car, and heavy vehicle.
-5. In the contact section we have given information to contact us by mail and
-p
+5. In the contact section we have given information to contact us by mail and phone information.
 
 ## FUTURE ENHANCEMENT
 1. We will do more details work on the Home page, photos page, About page, and Contact page.
